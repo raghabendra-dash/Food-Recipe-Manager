@@ -1,4 +1,4 @@
-##🍲 Food Recipes App
+🍲 Food Recipes App
 
 ### Project Overview
 
