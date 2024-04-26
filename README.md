@@ -5,7 +5,7 @@
 The **Food Recipes App** is a web application developed using HTML5, CSS3, JavaScript, and API integration. It leverages the MealDB API to fetch meal recipes dynamically based on user input. The app also utilizes local storage to store users' favorite recipes, ensuring persistence across sessions.
 
 ### 🔗Live Demo
-[Click here to visit the live site]()
+[Click here to visit the live site](https://raghabendra-dash.github.io/Food-Recipes-APP/)
 
 ### Technologies Used
 - **Frontend**: HTML5, CSS3, JavaScript
