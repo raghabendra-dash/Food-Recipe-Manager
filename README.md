@@ -1,4 +1,4 @@
-🍲 Food Recipes App
+🍲 Food Recipe Manager
 
 ### Project Overview
 
